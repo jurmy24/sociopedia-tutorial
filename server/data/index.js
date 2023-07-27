@@ -1,7 +1,5 @@
 import mongoose from "mongoose";
 
-/* THIS FILE CONTAINS MOCK DATA */
-
 const userIds = [
   new mongoose.Types.ObjectId(),
   new mongoose.Types.ObjectId(),
